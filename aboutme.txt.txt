@@ -1,0 +1,3 @@
+Name: Glenn Oloo
+Admission no: 122998
+Project Title: A Clustering Application for Personalization through Customer Segmentation - A Case Study of HoneyBee Cakes Bakery, Homa Bay
